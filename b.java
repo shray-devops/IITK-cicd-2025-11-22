@@ -1,7 +1,4 @@
-This is b.java on main branch
-
-
-Changes made in remote repo
-
-changes made on saturday
+1.Changes made in remote repo
+2.changes made on saturday
+3. Let's create push rejection
 
